@@ -1,5 +1,7 @@
 # Trabalhos Práticos de Lógica Computacional 20/21
-Notas: TP1 - 17 valores
+Notas: 
+	<br>
+	TP1 - 17 valores
 	<br>
 	   TP2 - 17 valores
 	   <br>
